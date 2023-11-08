@@ -1,7 +1,6 @@
 
 <h1>    
     <label width="25%">Hello! I'm Hugo </label>
-    <img src="./assets/gif/pixelart.gif">  
     <a href="https://www.linkedin.com/in/cossalter/">
         <img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cossalter/">
     </a>
